@@ -1,5 +1,5 @@
 # FFT_ChipDesign
-> A 16-point radix-4 FFT chip, including Verilog codes, netlists and layout. Group project.
+> A 16-point radix-4 FFT chip, including Verilog codes, netlists and layout. Group project. [Process Technology to be changed]
 
  <img src="https://img.shields.io/badge/Language-Verilog_HDL-red.svg" alt="Generic badge"  /><img src="https://img.shields.io/badge/Status-Achieved-yellow.svg" alt="Generic badge"  /><img src="https://img.shields.io/badge/Deadline-May_10_2020-green.svg" alt="Generic badge"/><img src="https://img.shields.io/badge/Schedule-Finished!-blue.svg" alt="Generic badge"/>
 
