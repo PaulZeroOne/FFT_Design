@@ -26,7 +26,7 @@
 |                    Number of Pins                    |                  90                   |
 |                 Operation frequency                  |              250 MHz              |
 |                  Operation voltage                   |                1.3 V                 |
-|                      Total area                      |        4.695300 mm<sup>2</sup>        |
+|                      Total area                      |       0.025532 mm<sup>2</sup>        |
 |      Power consumption per calculate operation       |     5.25118208×10<sup>-6</sup> mJ     |
 | FFT operands per unit area and unit power consumption | 41987.688 times/(mm<sup>2</sup>·mW·s) |
 |                      Bandwidth                       |              510.51 MB/s              |
