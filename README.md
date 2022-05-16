@@ -1,7 +1,7 @@
 # FFT_ChipDesign
-> A 16-point radix-4 FFT chip, including Verilog codes, netlists and layout. Group project. [Process Technology to be changed]
+> A 16-point radix-4 FFT chip, including Verilog codes, netlists and layout.
 
- <img src="https://img.shields.io/badge/Language-Verilog_HDL-red.svg" alt="Generic badge"  /><img src="https://img.shields.io/badge/Status-Achieved-yellow.svg" alt="Generic badge"  /><img src="https://img.shields.io/badge/Deadline-May_31_2020-green.svg" alt="Generic badge"/><img src="https://img.shields.io/badge/Schedule-Ongoing!-blue.svg" alt="Generic badge"/>
+
 
 ## Features
 
@@ -22,15 +22,15 @@
 
 |                   Evaluation Index                   |                 Value                 |
 | :--------------------------------------------------: | :-----------------------------------: |
-|                       Process                        |             18 nm              |
-|                    Number of Pins                    |                  90                   |
-|                 Operation frequency                  |              250 MHz              |
-|                  Operation voltage                   |                1.3 V                 |
-|                      Total area                      |       0.025532 mm<sup>2</sup>        |
-|      Power consumption per calculate operation       |     5.25118208×10<sup>-6</sup> mJ     |
-| FFT operands per unit area and unit power consumption | 41987.688 times/(mm<sup>2</sup>·mW·s) |
-|                      Bandwidth                       |              510.51 MB/s              |
-|                 Parallel throughput                  |       4.5946×10<sup>9</sup> bps       |
+|                       Process                        |             28 nm              |
+|                    Number of Pins                    |                  2245                   |
+|                 Operation frequency                  |              300 MHz              |
+|                  Operation voltage                   |                0.8 V                 |
+|                      Total area                      |       0.011532 mm<sup>2</sup>        |
+|      Power        |          |
+| FFT operands per unit area and unit power consumption |  |
+|                      Bandwidth                       |                          |
+|                 Parallel throughput                  |              |
 
 | File Name |     Type      |                    Functional description                    |
 | :-------: | :-----------: | :----------------------------------------------------------: |
